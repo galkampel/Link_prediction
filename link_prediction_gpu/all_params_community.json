@@ -1,0 +1,17 @@
+{
+ "p":[4],
+ "q":[0.25,2],
+ "d":128,
+ "r":20,
+ "l":[70],
+ "ks":[40],
+ "workers":1,
+ "rhos": [0.5,0.7,0.9],
+ "threshold" : 10000,
+ "to_expand": true,
+ "to_intertwine" : false,
+ "frac_between": 0.75,
+ "to_save_n2v_dict" : false,
+ "to_read_n2v_dict": true
+ }
+ 

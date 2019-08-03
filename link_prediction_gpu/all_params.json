@@ -1,0 +1,11 @@
+{
+ "p":[4],
+ "q":[2],
+ "d":128,
+ "r": 20,
+ "l":[70],
+ "k":[40],
+ "workers":1,
+ "to_save_n2v_dict": false,
+ "to_read_n2v_dict": true
+ }

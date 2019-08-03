@@ -1,0 +1,12 @@
+{
+ "has_sentences":false,
+ "num_walks" : 4,
+ "walk_length": 15,
+ "scalar_mix_parameters":[[0.0,0.0,1.0],[0.0,1.0,0.0]] ,
+ "num_output_representations": 1,
+ "dropout" : 0.5,
+ "requires_grad" :false,
+ "to_save_embed_dict" : true,
+ "to_read_embed_dict": false
+ }
+ 

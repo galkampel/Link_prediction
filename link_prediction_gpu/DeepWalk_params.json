@@ -1,0 +1,9 @@
+{
+ "has_embedded_dict":true,
+ "d":300,
+ "num_walks":20,
+ "walk_length":80,
+ "window_size":40,
+ "alphas": [0.15]
+ }
+ 
