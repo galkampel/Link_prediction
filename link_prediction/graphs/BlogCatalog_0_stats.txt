@@ -1,0 +1,11 @@
+Graph parameters:
+N = 10312
+E = 333983
+C = 0
+k_avg = 64.776
+k_meadian = 21.000
+C_avg = 1.403801
+Additional information:
+there are 270823 between edges
+there are 39 within edges keys with total of 66852 within edges
+there are 710 between edges keys with total of 270743 between edges

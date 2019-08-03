@@ -1,0 +1,21 @@
+LFR parameters:
+N = 10000
+alpha = 2
+beta = 1.05
+mu = 0.2
+k_min = 30
+k_max = 90
+c_min = 30
+c_max = 300
+seed = 2
+Graph parameters:
+N = 10000
+E = 305871
+C = 92
+k_avg = 61.174
+k_meadian = 58.000
+diameter = 4
+Additional information:
+there are 96445 between edges
+there are 92 within edges keys with total of 209426 within edges
+there are 2958 between edges keys with total of 91581 between edges

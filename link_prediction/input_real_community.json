@@ -1,0 +1,5 @@
+{ "edgelist_file": "datasets/Flickr-dataset/edges.csv",
+  "groups_file" : "datasets/Flickr-dataset/group-edges.csv"
+
+
+}

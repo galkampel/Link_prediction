@@ -1,0 +1,4 @@
+{ "N": 10000, "alpha" : 2, "beta" : 1.05, "mu": 0.2,
+  "k_min":30,"k_max":90,"c_min":30 ,"c_max":300 ,
+  "seed": 2,"min_links":50
+}

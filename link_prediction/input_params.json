@@ -1,0 +1,16 @@
+{
+ "data_name" :"BlogCatalog",
+ "has_communities" : true ,
+ "to_diff_links" : false ,
+ "is_multiclass" : false  , 
+ "is_synthetic" : false ,
+ "has_community_dict": true,
+ "save_edge_embeddings":false,
+ "model_params_path" : "MLP_DeepWalk.json" ,
+ "model_name" : "MLP",
+ "method": "DeepWalk",
+ "CD_model": 0,
+ "seed" : 1,
+ "seed_trainings" : [1]
+}
+

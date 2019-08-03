@@ -1,0 +1,36 @@
+{
+	"standard":
+			{"SGD": {
+						"lr": [1e-5,1e-3],
+						"momentum": [0.9],
+						"weight_decay": [1e-3,1e-6]
+						}
+						,
+			
+			"architectures":[[[1024,512],[512,256],[256,128],[128,2]]]
+			},
+	"multiclass":
+			{"SGD": {
+						"lr": [1e-3,1e-1],
+						"momentum": [0.9,0.99],
+						"weight_decay": [0,1e-6,1e-3]
+						}
+						,
+			"adam": {
+						"lr": [1e-3,1e-1]
+						},
+			"architectures":[[[1024,512],[512,256],[256,128],[128,2]]]
+			},
+	"embedded":
+			{"SGD": {
+						"lr": [1e-3,1e-1],
+						"momentum": [0.9,0.99],
+						"weight_decay": [0,1e-6,1e-3]
+						}
+						,
+			"adam": {
+						"lr": [1e-3,1e-1]
+						},
+			"architectures":[[[1024,512],[512,256],[256,128],[128,2]]]
+			}		
+}
